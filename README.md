@@ -46,7 +46,7 @@ This Java code defines a simple employee management system with the following co
 In summary, this code creates a basic employee management system where you can add, view, search, update, and remove employee records within a company. The `AppLauncher` class serves as the user interface for interacting with the system.
 
 
---------------------------------------------------------------------PROJECT DESCRIPTION-------------------------------------------------------
+----------------------------------------PROJECT DESCRIPTION-------------------------------------------------------
 
 The Employee Management System (EMS) is a comprehensive Java-based application designed to simplify and streamline the complex task of managing employee records within organizations. With a user-friendly interface and a range of powerful features, EMS empowers Human Resources departments and managers to efficiently handle their workforce data.
 
